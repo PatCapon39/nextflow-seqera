@@ -4,12 +4,13 @@ contributors: [Ziad Al-Bkhetan, Johan Gustafsson, Georgina Samaha]
 description: Login to the service.
 toc: false
 type: guides
+page_id: pg-2
 ---
 
 
 ## Logging into the service
 
-1. Go to [https://tower.services.biocommons.org.au](https://tower.services.biocommons.org.au).
+1. Go to [https://seqera.services.biocommons.org.au](https://seqera.services.biocommons.org.au).
 
 2. Provide an email address, then you will receive an email with the access link in your email inbox.
 

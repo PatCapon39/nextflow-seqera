@@ -14,5 +14,5 @@ toc: false
   
 ## User Guide Table of Content
 
-{% include section-navigation-tiles.html type="guides" %}
+{% include section-navigation-tiles.html type="guides" sort=false custom="pg-1, pg-2, pg-3, pg-4, pg-5" %}
 

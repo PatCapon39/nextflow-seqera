@@ -4,6 +4,7 @@ contributors: [Ziad Al-Bkhetan, Johan Gustafsson]
 description: Instructions to access personal and organisation workspace.
 toc: false
 type: guides
+page_id: pg-2
 ---
 
 ## Access an organisation workspace

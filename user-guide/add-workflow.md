@@ -4,6 +4,7 @@ contributors: [Ziad Al-Bkhetan, Johan Gustafsson]
 description: Instructions to add workflows to a workspace.
 toc: false
 type: guides
+page_id: pg-4
 ---
 
 ## Add a new workflow to a workspace

@@ -4,6 +4,7 @@ contributors: [Ziad Al-Bkhetan, Johan Gustafsson, Georgina Samaha]
 description: Instructions to add and configure compute envornments for HPCs and commercial cloud services.
 toc: true
 type: guides
+page_id: pg-3
 ---
 
 ## Introduction

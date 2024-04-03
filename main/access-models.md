@@ -24,7 +24,7 @@ Organisation workspaces are private and their resources are only accessible by t
 
 
 ## 2. Personal workspace
-Any Australian researcher can access [the Australian BioCommons Seqera Service](http://tower.services.biocommons.org.au/) and use their own personal workspace for their work. Please refer to the [Seqera documentation](https://docs.seqera.io/latest/getting-started/workspace/). 
+Any Australian researcher can access [the Australian BioCommons Seqera Service](http://seqera.services.biocommons.org.au/) and use their own personal workspace for their work. Please refer to the [Seqera documentation](https://docs.seqera.io/latest/getting-started/workspace/). 
 
 Note:
 
@@ -40,5 +40,5 @@ Note:
 # The process of joining and utilising the Australian Nextflow Seqera service
 
 <br/>
-<div style="text-align:center"><img width="50%" src="../assets/doc_img/tower-process.png"/></div>
+<div style="text-align:center"><img width="50%" src="../assets/doc_img/seqera-process.png"/></div>
 <br/>

@@ -7,6 +7,6 @@ toc: false
 
 Please contact us for any inquiries you have:
 
-The Australian Nextflow Seqera support : <tower@biocommons.org.au>
+The Australian Nextflow Seqera support : <seqera@biocommons.org.au>
 
 
