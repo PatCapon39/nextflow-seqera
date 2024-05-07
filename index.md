@@ -39,7 +39,7 @@ Since investigations commenced in July 2022:
 ## Participants of the pilot project
 <div class="container">
     <div class="row">
-        <div class="col-sm-3" style="border: 1px solid; box-shadow: 3px 3px 3px 3px #888888; padding: 10px; margin: 5px" >
+        <div class="col-sm-3" style="border: 1px solid; box-shadow: 3px 3px 3px 3px #888888; padding: 10px; margin: 20px" >
             <div class="card">
             <div class="card-body">
                 <h5 class="card-title">AGRF Bioinformatics Team</h5>
@@ -48,7 +48,7 @@ Since investigations commenced in July 2022:
             </div>
             </div>
         </div>
-        <div class="col-sm-3" style="border: 1px solid; box-shadow: 3px 3px 3px 3px #888888; padding: 10px; margin: 5px" >
+        <div class="col-sm-3" style="border: 1px solid; box-shadow: 3px 3px 3px 3px #888888; padding: 10px; margin: 20px" >
             <div class="card">
             <div class="card-body">
                 <h5 class="card-title">AusARG Phylogenomics Group</h5>
@@ -57,7 +57,7 @@ Since investigations commenced in July 2022:
             </div>
             </div>
         </div>
-        <div class="col-sm-3" style="border: 1px solid; box-shadow: 3px 3px 3px 3px #888888; padding: 10px; margin: 5px" >
+        <div class="col-sm-3" style="border: 1px solid; box-shadow: 3px 3px 3px 3px #888888; padding: 10px; margin: 20px" >
             <div class="card">
             <div class="card-body">
                 <h5 class="card-title">Zero Childhood Cancer</h5>
@@ -68,7 +68,7 @@ Since investigations commenced in July 2022:
         </div>
     </div>
     <div class="row">
-        <div class="col-sm-3" style="border: 1px solid; box-shadow: 3px 3px 3px 3px #888888; padding: 10px; margin: 5px" >
+        <div class="col-sm-3" style="border: 1px solid; box-shadow: 3px 3px 3px 3px #888888; padding: 10px; margin: 20px" >
             <div class="card">
             <div class="card-body">
                 <h5 class="card-title">eResearch Team</h5>
@@ -77,7 +77,7 @@ Since investigations commenced in July 2022:
             </div>
             </div>
         </div>
-        <div class="col-sm-3" style="border: 1px solid; box-shadow: 3px 3px 3px 3px #888888; padding: 10px; margin: 5px" >
+        <div class="col-sm-3" style="border: 1px solid; box-shadow: 3px 3px 3px 3px #888888; padding: 10px; margin: 20px" >
             <div class="card">
             <div class="card-body">
                 <h5 class="card-title">Data Science Platform</h5>
@@ -86,7 +86,7 @@ Since investigations commenced in July 2022:
             </div>
             </div>
         </div>
-        <div class="col-sm-3" style="border: 1px solid; box-shadow: 3px 3px 3px 3px #888888; padding: 10px; margin: 5px" >
+        <div class="col-sm-3" style="border: 1px solid; box-shadow: 3px 3px 3px 3px #888888; padding: 10px; margin: 20px" >
             <div class="card">
             <div class="card-body">
                 <h5 class="card-title">Northcott Neuroscience Laboratory</h5>
@@ -97,7 +97,7 @@ Since investigations commenced in July 2022:
         </div>
     </div>
     <div class="row">
-        <div class="col-sm-3" style="border: 1px solid; box-shadow: 3px 3px 3px 3px #888888; padding: 10px; margin: 5px" >
+        <div class="col-sm-3" style="border: 1px solid; box-shadow: 3px 3px 3px 3px #888888; padding: 10px; margin: 20px" >
             <div class="card">
             <div class="card-body">
                 <h5 class="card-title">Bioinformatics Consulting Core Facility </h5>
@@ -106,7 +106,7 @@ Since investigations commenced in July 2022:
             </div>
             </div>
         </div>
-        <div class="col-sm-3" style="border: 1px solid; box-shadow: 3px 3px 3px 3px #888888; padding: 10px; margin: 5px" >
+        <div class="col-sm-3" style="border: 1px solid; box-shadow: 3px 3px 3px 3px #888888; padding: 10px; margin: 20px" >
             <div class="card">
             <div class="card-body">
                 <h5 class="card-title">South Australian Genomics Centre</h5>
@@ -115,7 +115,7 @@ Since investigations commenced in July 2022:
             </div>
             </div>
         </div>
-        <div class="col-sm-3" style="border: 1px solid; box-shadow: 3px 3px 3px 3px #888888; padding: 10px; margin: 5px" >
+        <div class="col-sm-3" style="border: 1px solid; box-shadow: 3px 3px 3px 3px #888888; padding: 10px; margin: 20px" >
             <div class="card">
             <div class="card-body">
                 <h5 class="card-title">P4 Respiratory Health for Kids</h5>
@@ -126,7 +126,7 @@ Since investigations commenced in July 2022:
         </div>
     </div>
     <div class="row">
-        <div class="col-sm-3" style="border: 1px solid; box-shadow: 3px 3px 3px 3px #888888; padding: 10px; margin: 5px" >
+        <div class="col-sm-3" style="border: 1px solid; box-shadow: 3px 3px 3px 3px #888888; padding: 10px; margin: 20px" >
             <div class="card">
             <div class="card-body">
                 <h5 class="card-title">University of Melbourne Centre for Cancer Research </h5>
@@ -135,7 +135,7 @@ Since investigations commenced in July 2022:
             </div>
             </div>
         </div>
-        <div class="col-sm-3" style="border: 1px solid; box-shadow: 3px 3px 3px 3px #888888; padding: 10px; margin: 5px" >
+        <div class="col-sm-3" style="border: 1px solid; box-shadow: 3px 3px 3px 3px #888888; padding: 10px; margin: 20px" >
             <div class="card">
             <div class="card-body">
                 <h5 class="card-title">Sydney Informatics Hub</h5>
@@ -144,7 +144,7 @@ Since investigations commenced in July 2022:
             </div>
             </div>
         </div>
-        <div class="col-sm-3" style="border: 1px solid; box-shadow: 3px 3px 3px 3px #888888; padding: 10px; margin: 5px" >
+        <div class="col-sm-3" style="border: 1px solid; box-shadow: 3px 3px 3px 3px #888888; padding: 10px; margin: 20px" >
             <div class="card">
             <div class="card-body">
                 <h5 class="card-title">UWA ForrestLab</h5>
@@ -155,7 +155,7 @@ Since investigations commenced in July 2022:
         </div>
     </div>
     <div class="row">
-        <div class="col-sm-3" style="border: 1px solid; box-shadow: 3px 3px 3px 3px #888888; padding: 10px; margin: 5px" >
+        <div class="col-sm-3" style="border: 1px solid; box-shadow: 3px 3px 3px 3px #888888; padding: 10px; margin: 20px" >
             <div class="card">
             <div class="card-body">
                 <h5 class="card-title">Multiple groups from WEHI </h5>
@@ -164,7 +164,7 @@ Since investigations commenced in July 2022:
             </div>
             </div>
         </div>
-        <div class="col-sm-3" style="border: 1px solid; box-shadow: 3px 3px 3px 3px #888888; padding: 10px; margin: 5px" >
+        <div class="col-sm-3" style="border: 1px solid; box-shadow: 3px 3px 3px 3px #888888; padding: 10px; margin: 20px" >
             <div class="card">
             <div class="card-body">
                 <h5 class="card-title">Queensland Cyber Infrastructure Foundation (QCIF) </h5>
