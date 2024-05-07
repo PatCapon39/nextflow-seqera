@@ -36,6 +36,30 @@ Since investigations commenced in July 2022:
 
  <br />
 
+## Participants of the pilot project
+
+<div class="row">
+  <div class="col-sm-6">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">AGRF Bioinformatics Team</h5>
+        <p class="card-text">Australian Genome Research Facility</p>
+        <a href="https://www.agrf.org.au/" class="btn btn-primary">Website</a>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-6">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">AusARG Phylogenomics Group</h5>
+        <p class="card-text">Australian Amphibian and Reptile Genomics</p>
+        <a href="https://ausargenomics.com/" class="btn btn-primary">Website</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+
 ## Quick access links
 
 [Join the pilot project](/nextflow-seqera/main/join_us){: class="btn btn-primary col-3"}
