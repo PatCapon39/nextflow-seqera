@@ -39,7 +39,7 @@ Since investigations commenced in July 2022:
 ## Participants of the pilot project
 
 <div class="row">
-  <div class="col-sm-6">
+  <div class="col-sm-6" style="border: 1px solid; box-shadow: 3px 3px 3px 3px #888888; padding: 10px; margin: 5px" >
     <div class="card">
       <div class="card-body">
         <h5 class="card-title">AGRF Bioinformatics Team</h5>
@@ -48,7 +48,7 @@ Since investigations commenced in July 2022:
       </div>
     </div>
   </div>
-  <div class="col-sm-6">
+  <div class="col-sm-6" style="border: 1px solid; box-shadow: 3px 3px 3px 3px #888888; padding: 10px; margin: 5px" >
     <div class="card">
       <div class="card-body">
         <h5 class="card-title">AusARG Phylogenomics Group</h5>
