@@ -1,7 +1,7 @@
 
 # Access models for the service
 
-There are currently two ways in which you can make use of the Nextflow Seqera service:
+There are currently two ways in which you can make use of the Australian Nextflow Seqera Service:
 
 ## 1. Organisation workspace
 
@@ -17,20 +17,20 @@ Organisation workspaces are private and their resources are only accessible by t
 - Organisation workspace can be shared where all their resources become accessible to all users in the Australian BioCommons Organisation on Australian Nextflow Seqera platform. This kind of workspace can be very effective to share pipelines to benefit the broader Bioinformatics community. Check Seqera documentation to undestand more about [shared worksapces](https://docs.seqera.io/latest/orgs-and-teams/shared-workspaces/).
 
 > **Important:**
-> please reach out to the Australian BioCommons if you plan to utilise this kind of workspaces.
+> Please reach out to the Australian BioCommons if you plan to utilise this kind of workspace.
 
 > **Organisaion workspace Support:**
-> Check out the [support webpage](/main/support.md) to undestand more on the available support to this access model.
+> Check out the [support page](/main/support.md) to undestand more on the available support for this access model.
 
 
 ## 2. Personal workspace
-Any Australian researcher can access [the Australian BioCommons Seqera Service](http://seqera.services.biocommons.org.au/) and use their own personal workspace for their work. Please refer to the [Seqera documentation](https://docs.seqera.io/latest/getting-started/workspace/). 
+Any Australian researcher can access [the Australian BioCommons Nextflow Seqera Service](http://seqera.services.biocommons.org.au/) and use their own personal workspace. Please refer to the [Seqera documentation](https://docs.seqera.io/latest/getting-started/workspace/). 
 
 Note:
 
-- Personal workspaces are only accessible by their owners,
+- Personal workspaces are only accessible by their owners.
 
-- The Australian BioCommons does not provide direct support for this model
+- The Australian BioCommons does not provide direct support for this model.
 
 - Users are responsible for setting up, managing and maintaining their workspaces. 
 

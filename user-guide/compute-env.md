@@ -9,7 +9,7 @@ page_id: pg-3
 
 ## Introduction
 
-Seqera supports running pipelines on several compute platforms including commercial cloud such as AWS and Azure, as well as high-performance computer (HPC). A full list of supported platforms is available through [Seqera documenation] (https://docs.seqera.io/latest/compute-envs/overview/). 
+Seqera supports running pipelines on several compute platforms including commercial cloud such as AWS and Azure, as well as high-performance computer (HPC). A full list of supported platforms is available through [Seqera documentation](https://docs.seqera.io/latest/compute-envs/overview/). 
 
 To access these compute infrastructures through Seqera, compute environments need to be created and configured on Seqera for each compute infrastructure.
 
@@ -25,9 +25,9 @@ In order to access compute infrastructre, you need to create access [credentials
 The following instructions is to configure compute invirnment for HPC through Tower agent credentials.
 
 
-### Steps to configure HPC on the Australian Nextflow Seqera Service within organisation workspace
+### Steps to configure HPC on the Australian Nextflow Seqera Service within an organisation workspace
 
-Prerequisites for configuration on organisation workspace:
+Prerequisites for configuration on an organisation workspace:
 
 1.	You have access to an organisation workspace
 2.	The user has an owner or admin role within this workspace.
@@ -54,10 +54,10 @@ The following steps need to be completed in order unless they have been complete
             You don’t need an access token if you intend to create SSH key credentials, but you will need it for the Tower agent credentials. 
             <ul>
             <li>The user can create an access token as <a href="https://docs.seqera.io/latest/api/overview/?h=access+token#authentication"> described here </a>.</li>
-            <li>Keep it safe, create a new one if you lose it and delete lost tokens</li>
+            <li>Keep it safe, create a new one if you lose it and delete lost tokens.</li>
             <li>Use descriptive names.</li>
             <li>Don’t share your token with others.</li>
-            <li>After you close the token creation window, you will not be able to view/copy the Token any more, but you can update it or delete it.</li>
+            <li>After you close the token creation window, you will not be able to view/copy the token any more, but you can update it or delete it.</li>
             </ul>
             <div class="alert alert-primary" role="alert">
             <h4 class="alert-heading">Note</h4>
@@ -170,7 +170,7 @@ The following steps need to be completed in order unless they have been complete
 </div>
 
 
-### Utilising Compute envornment with tower agent
+### Utilising compute environment with tower agent
 
 There are few points to be considered when using tower agent
 
@@ -193,9 +193,11 @@ To do that:
      <p>The agent should be able to access the internet.</p>
 </div>
 
-## Configuring Commerical cloud
+## Configuring commerical cloud
 
 The easiest way is using AWS Batch and tower forge permissions to allow tower to create the batch environment. In order to do this please follow this [documentation](https://docs.seqera.io/latest/compute-envs/aws-batch/).
 
-Other Compute infrastructures such Azure and others: Please visit [Seqera documentation](https://docs.seqera.io/latest/compute-envs/overview/) for more details.
+## Other infrastructures
+
+Please visit [Seqera documentation](https://docs.seqera.io/latest/compute-envs/overview/) for more details on configuring for other compute infrastructures such as Azure.
  
