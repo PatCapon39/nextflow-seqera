@@ -25,7 +25,7 @@ Under the pilot project, you can:
 
 ## Join an existing organisation workspace
 
-1. The user who needs to access a workspace should log in to the Australian Nextflow Seqera service. 
+1. The user who needs to access a workspace should log in to the Australian Nextflow Seqera Service. 
 
 2. The email address used in the user’s login should then be shared with the admin of the workspace and the admin can add the user directly as described in Seqera documentation here. This should be done under the participants' tab in the workspace rather than the organisation.
 
@@ -36,4 +36,4 @@ Visit [Seqera documentation](https://docs.seqera.io/latest/orgs-and-teams/worksp
 
 ## Access a personal workspace
 
-By default, each user on the Australian  Nextflow Seqera service will have their own personal workspace which can be accessed directly after logging into the service. No need to contact the Australian BioCommons to use your own personal workspace. This model is not supported by the Australian BioCommons at this stage, and users are responsible to configure and use their personal workspace.
+By default, each user on the Australian  Nextflow Seqera Service will have their own personal workspace which can be accessed directly after logging into the service. There is no need to contact the Australian BioCommons to use your own personal workspace. This model is not currently supported, and users are responsible to configure and use their personal workspace.
