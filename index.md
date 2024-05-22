@@ -8,19 +8,19 @@ toc: false
 
 Through a licence agreement with Seqera Labs, Australian BioCommons is in the process of standing up a national Nextflow Seqera service, enabling a centralised command post for Nextflow pipelines to be offered as a fully subsidised service for Australian researchers.
 
-Working with partners including service hosts Pawsey Supercomputing Research Centre, NCI, SIH, QCIF and Melbourne Bioinformatics, the Australian Nextflow Seqera Service will deliver a key component of BioCommon’s vision for an ecosystem of data analysis and digital asset stewardship platforms. The project is delivered through the BioCommons ‘Bring Your Own Data’ Project, which attracts ARDC and Bioplatforms Australia funding.
+Working with partners including service hosts Pawsey Supercomputing Research Centre, NCI, SIH, QCIF and Melbourne Bioinformatics, the Australian Nextflow Seqera Service will deliver a key component of BioCommon’s vision for an ecosystem of data analysis and digital asset stewardship platforms.
 
 ## Aims of the pilot project
 
-The pilot project has three key ambitions, which are to
+The pilot project has three key ambitions, which are to:
 
 1. Establish a service where BioCommons early adopters, including both science and method communities, can easily run, manage and monitor the execution of Nextflow workflows on dedicated compute infrastructure.
 
-2. Understand service demand and utilisation by working with BioCommons communities and assessing interest from other communities
+2. Understand service demand and utilisation by working with BioCommons communities and assessing interest from other communities.
 
-3. Develop service operational models; understand costs and benefits; develop a business case for continuing the service
+3. Develop service operational models; understand costs and benefits; develop a business case for continuing the service.
 
-At the end of the pilot phase, the Australian BioCommons will make the decision on providing this service for a long term. This depends on the feedback and outcomes of this pilot project. Successful use cases will play a major role in influencing the decision.
+At the end of the pilot phase, Australian BioCommons will make the decision on providing this service for a long term. This depends on the feedback and outcomes of this pilot project. Successful use cases will play a major role in influencing the decision.
 
 ## Service status
 
@@ -30,7 +30,7 @@ Since investigations commenced in July 2022:
 
 - Researchers at AGRF, AusARG, UNSW and the University of Sydney are developing and running Nextflow pipelines to test the service
 
-- Test pipelines have been run on Pawsey, NCI, AGRF and AWS infrastructure.
+- Test pipelines have been run on Pawsey, NCI, AGRF and AWS infrastructure
 
 - Research infrastructure teams at QUT and St Vincent’s institute medical research are exploring the use of the service
 
@@ -148,7 +148,7 @@ Since investigations commenced in July 2022:
             <div class="card">
             <div class="card-body">
                 <h5 class="card-title">UWA ForrestLab</h5>
-                <p class="card-text">the Harry Perkins Institute of Medical Research</p>
+                <p class="card-text">The Harry Perkins Institute of Medical Research</p>
                 <a class="btn btn-primary">Website</a>
             </div>
             </div>
