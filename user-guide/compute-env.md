@@ -9,18 +9,18 @@ page_id: pg-3
 
 ## Introduction
 
-Seqera supports running pipelines on several compute platforms including commercial cloud such as AWS and Azure, as well as high-performance computer (HPC). A full list of supported platforms is available through [Seqera documentation](https://docs.seqera.io/latest/compute-envs/overview/). 
+Seqera supports running pipelines on several compute platforms including commercial cloud such as AWS and Azure, as well as high-performance computer (HPC). A full list of supported platforms is available through [Seqera documentation](https://docs.seqera.io/platform/latest/compute-envs/overview/). 
 
 To access these compute infrastructures through Seqera, compute environments need to be created and configured on Seqera for each compute infrastructure.
 
 
 ## Configuring HPC on the Australian Nextflow Seqera Service
 
-Seqera supports adding compute environments for HPCs that utilise [Slurm](https://docs.seqera.io/latest/compute-envs/slurm/) and [PBS Pro](https://docs.seqera.io/latest/compute-envs/altair-pbs-pro/) workload managers. 
+Seqera supports adding compute environments for HPCs that utilise [Slurm](https://docs.seqera.io/platform/latest/compute-envs/slurm/) and [PBS Pro](https://docs.seqera.io/platform/latest/compute-envs/altair-pbs-pro/) workload managers. 
 
 > Note: compute environments are shared across the users of the same workspace. 
 
-In order to access compute infrastructre, you need to create access [credentials](https://docs.seqera.io/latest/credentials/overview/#introduction). SSH keys or Tower agents can be used to access the HPC. SSH keys are easier to use but some HPC providers are restricted from sharing SSH keys with a third party (e.g. Seqera Platform). In addition, it can be tricky to use SSH keys if the HPC is in a private network and requires VPN access. 
+In order to access compute infrastructre, you need to create access [credentials](https://docs.seqera.io/platform/latest/credentials/overview/#introduction). SSH keys or Tower agents can be used to access the HPC. SSH keys are easier to use but some HPC providers are restricted from sharing SSH keys with a third party (e.g. Seqera Platform). In addition, it can be tricky to use SSH keys if the HPC is in a private network and requires VPN access. 
 
 The following instructions is to configure compute invirnment for HPC through Tower agent credentials.
 
@@ -53,7 +53,7 @@ The following steps need to be completed in order unless they have been complete
           <div class="accordion-body">  
             You don’t need an access token if you intend to create SSH key credentials, but you will need it for the Tower agent credentials. 
             <ul>
-            <li>The user can create an access token as <a href="https://docs.seqera.io/latest/api/overview/?h=access+token#authentication"> described here </a>.</li>
+            <li>The user can create an access token as <a href="https://docs.seqera.io/platform/latest/api/overview/?h=access+token#authentication"> described here </a>.</li>
             <li>Keep it safe, create a new one if you lose it and delete lost tokens.</li>
             <li>Use descriptive names.</li>
             <li>Don’t share your token with others.</li>
@@ -74,7 +74,7 @@ The following steps need to be completed in order unless they have been complete
         </h2>
         <div id="collapse-tower-agent" class="accordion-collapse collapse" aria-labelledby="heading-tower-agent" data-bs-parent="#accordion-comp-env-all">
           <div class="accordion-body">
-            <p><a href="https://docs.seqera.io/latest/agent/">Tower agent </a> is software that runs on the HPC and communicates with Seqera API to perform all tasks needed on the HPC including launching a pipeline and monitoring its execution. For an admin to create a tower agent credential, follow the following steps:</p>
+            <p><a href="https://docs.seqera.io/platform/latest/agent/">Tower agent </a> is software that runs on the HPC and communicates with Seqera API to perform all tasks needed on the HPC including launching a pipeline and monitoring its execution. For an admin to create a tower agent credential, follow the following steps:</p>
             <ol>
                 <li>Navigate to the workspace you want to add credentials to, then click on the <code>Credentials</code> tab.</li>
                 <li>Click on the <code>Add Credentials</code> button under <code>Credentials</code> to create a shared <code>Agent connection ID</code> for the tower agent.</li>
@@ -83,7 +83,7 @@ The following steps need to be completed in order unless they have been complete
                 <div style="text-align:center"><img width="50%" src="../assets/doc_img/agent.png"/></div>
                 <br/>
                 <li>Give your credential a descriptive name, this is working at the infrastructure level so we recommend creating different credentials for different environments.</li>
-                <li>Keep <code>Shared agent</code> disabled. check <a href="/user-guide/shared-agent.md">Shared agent section</a> for more details on this.</li>
+                <li>Keep <code>Shared agent</code> disabled. Check <a href="/user-guide/shared-agent.md">t shared agent section</a> of this guide for more details.</li>
                 <li>Before adding the credential you will need to run the agent on the compute infrastructure. To do this:
                     <ol>
                         <li>Keep the Agent interface open.</li>
@@ -195,9 +195,9 @@ To do that:
 
 ## Configuring commerical cloud
 
-The easiest way is using AWS Batch and tower forge permissions to allow tower to create the batch environment. In order to do this please follow this [documentation](https://docs.seqera.io/latest/compute-envs/aws-batch/).
+The easiest way is using AWS Batch and tower forge permissions to allow tower to create the batch environment. In order to do this please follow this [documentation](https://docs.seqera.io/platform/latest/compute-envs/aws-batch/).
 
 ## Other infrastructures
 
-Please visit [Seqera documentation](https://docs.seqera.io/latest/compute-envs/overview/) for more details on configuring for other compute infrastructures such as Azure.
+Please visit [Seqera documentation](https://docs.seqera.io/platform/latest/compute-envs/overview/) for more details on configuring for other compute infrastructures such as Azure.
  
