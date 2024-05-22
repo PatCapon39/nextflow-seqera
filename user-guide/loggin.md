@@ -1,7 +1,7 @@
 ---
 title: Log in to the service
 contributors: [Ziad Al-Bkhetan, Johan Gustafsson, Georgina Samaha]
-description: Login to the service.
+description: Instructions for logging in.
 toc: false
 type: guides
 page_id: pg-2
