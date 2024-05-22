@@ -1,7 +1,7 @@
 ---
 title: Recommendations and best practice
 contributors: [Ziad Al-Bkhetan, Johan Gustafsson]
-description: General and infrastructre-specific Recommendations and best practice to configure workspace's resources.
+description: General and infrastructre-specific recommendations and best practice to configure your workspace's resources.
 toc: false
 type: guides
 page_id: pg-5
