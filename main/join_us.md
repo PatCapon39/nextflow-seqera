@@ -10,20 +10,20 @@ If you would like to register your interest to participate in the pilot project 
 
 1. **Access to compute infrastructure**
 
-    The community should have access to at least one compute infrastructure that will be configured on the Australian Nextflow Seqera service. There are several supported platforms on Seqera and you can find them here.
+    The community/organisation should have access to at least one compute infrastructure that will be configured on the Australian Nextflow Seqera service. There are several supported platforms on Seqera and you can find them [here](https://docs.seqera.io/platform/latest/compute-envs/overview).
 
 2. **Nextflow pipelines**
 
-    The community should have nextflow pipelines implemented and tested on the compute environments (from 1). Internally implemented pipelines, those reused from nf-core or any other resources are ok.
-    Preference: Implementation of config profiles that allows conda and docker executions for portability purposes.
+    The community/organisation should have Nextflow pipelines implemented and tested on the compute environments (from 1). Internally implemented pipelines, those reused from nf-core or any other resources are ok.
+    Preferable: Implementation of config profiles that allows conda and docker executions for portability purposes.
 
 3. **Testing datasets**
 
-    For any suggested pipeline, there should be some testing datasets available during the deployment on the Australian Nextflow Seqera Service. This should include small datasets for quick testing and real datasets for production testing.
+    For any pipeline, there should be testing datasets available during the deployment on the Australian Nextflow Seqera Service. This should include both small datasets for quick testing and real datasets for production testing.
 
 4. **Nextflow expertise**
 
-    The deployment and configuration of compute environments and pipelines should be led and driven by the community/organisation.  This requires the organisation/community to have dedicated resources with technical expertise in nextflow, and infrastructure expertise, including HPC and commercial cloud (depending on the case).
+    The deployment and configuration of compute environments and pipelines should be led and driven by the community/organisation.  This requires the communityorganisation to have dedicated resources with technical expertise in Nextflow, and infrastructure expertise, including HPC and commercial cloud (depending on the case).
 
     The dedicated resource with relevant expertise might need to do the following:
 
