@@ -99,7 +99,7 @@ The following steps need to be completed in order unless they have been complete
                     </ol>
                 </li>
             </ol>
-            <p>The steps above will help to create the credentials and understand the Agent&rsquo;s parameters and how it runs. In practice, this can be better optimised by having all scripts and tokens in config files and bash scripts. See best practice recommendations. The procedure is also described in the Seqera documentation at <a href="https://docs.seqera.io/latest/agent/#quickstart">Quick Start</a>.</p>
+            <p>The steps above will help to create the credentials and understand the Agent&rsquo;s parameters and how it runs. In practice, this can be better optimised by having all scripts and tokens in config files and bash scripts. See best practice recommendations. The procedure is also described in the Seqera documentation at <a href="https://docs.seqera.io/platform/latest/agent/#quickstart">Quick Start</a>.</p>
             <div class="alert alert-primary" role="alert">
             <h4 class="alert-heading">Note</h4>
             <p>Users of the same workspace share credentials, so there is no need to create a credential per user within a workspace.</p>
