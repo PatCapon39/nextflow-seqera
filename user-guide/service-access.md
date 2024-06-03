@@ -27,11 +27,11 @@ Under the pilot project, you can:
 
 1. The user who needs to access a workspace should log in to the Australian Nextflow Seqera Service. 
 
-2. The email address used in the user’s login should then be shared with the workspace administrator, and the admin can add the user directly as described in the [Seqera documentation](https://docs.seqera.io/platform/23.4.0/administration/overview#membership-administration). This should be done under the participants' tab in the workspace rather than the organisation.
+2. The email address used in the user’s login should then be shared with the workspace administrator, and the admin can add the user directly as described in the [Seqera documentation](https://docs.seqera.io/platform/latest/administration/overview#membership-administration). This should be done under the participants' tab in the workspace rather than the organisation.
 
 ## Managing participants' access to organisation workspace
 
-Visit the [Seqera documentation](https://docs.seqera.io/platform/23.4.0/administration/overview#workspace-administration) to learn more about different access roles that can be assigned to workspace participants. This will allow for better management of resources and minimise risks. 
+Visit the [Seqera documentation](https://docs.seqera.io/platform/latest/administration/overview#workspace-administration) to learn more about different access roles that can be assigned to workspace participants. This will allow for better management of resources and minimise risks. 
 
 
 ## Access a personal workspace
