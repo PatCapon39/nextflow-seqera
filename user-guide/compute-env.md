@@ -1,7 +1,7 @@
 ---
 title: Configure and use compute environments
 contributors: [Ziad Al-Bkhetan, Johan Gustafsson, Georgina Samaha]
-description: Instructions to add and configure compute envornments for HPCs and commercial cloud services.
+description: Instructions to add and configure compute environments for HPCs and commercial cloud services.
 toc: true
 type: guides
 page_id: pg-3
@@ -9,7 +9,7 @@ page_id: pg-3
 
 ## Introduction
 
-Seqera supports running pipelines on several compute platforms including commercial cloud such as AWS and Azure, as well as high-performance computer (HPC). A full list of supported platforms is available through [Seqera documentation](https://docs.seqera.io/platform/latest/compute-envs/overview/). 
+Seqera supports running pipelines on several compute platforms including commercial cloud such as AWS and Azure, as well as high-performance computers (HPC). A full list of supported platforms is available in [Seqera's documentation](https://docs.seqera.io/platform/latest/compute-envs/overview/). 
 
 To access these compute infrastructures through Seqera, compute environments need to be created and configured on Seqera for each compute infrastructure.
 
@@ -22,7 +22,7 @@ Seqera supports adding compute environments for HPCs that utilise [Slurm](https:
 
 In order to access compute infrastructre, you need to create access [credentials](https://docs.seqera.io/platform/latest/credentials/overview/#introduction). SSH keys or Tower agents can be used to access the HPC. SSH keys are easier to use but some HPC providers are restricted from sharing SSH keys with a third party (e.g. Seqera Platform). In addition, it can be tricky to use SSH keys if the HPC is in a private network and requires VPN access. 
 
-The following instructions is to configure compute invirnment for HPC through Tower agent credentials.
+The following instructions is to configure compute environments for HPC through Tower agent credentials.
 
 
 ### Steps to configure HPC on the Australian Nextflow Seqera Service within an organisation workspace
@@ -53,7 +53,7 @@ The following steps need to be completed in order unless they have been complete
           <div class="accordion-body">  
             You don’t need an access token if you intend to create SSH key credentials, but you will need it for the Tower agent credentials. 
             <ul>
-            <li>The user can create an access token as <a href="https://docs.seqera.io/platform/latest/api/overview/?h=access+token#authentication"> described here </a>.</li>
+            <li>The user can create an access token as <a href="https://docs.seqera.io/platform/latest/api/overview/?h=access+token#authentication"> described here</a>.</li>
             <li>Keep it safe, create a new one if you lose it and delete lost tokens.</li>
             <li>Use descriptive names.</li>
             <li>Don’t share your token with others.</li>
@@ -83,12 +83,12 @@ The following steps need to be completed in order unless they have been complete
                 <div style="text-align:center"><img width="50%" src="../assets/doc_img/agent.png"/></div>
                 <br/>
                 <li>Give your credential a descriptive name, this is working at the infrastructure level so we recommend creating different credentials for different environments.</li>
-                <li>Keep <code>Shared agent</code> disabled. Check <a href="/user-guide/shared-agent.md">t shared agent section</a> of this guide for more details.</li>
+                <li>Keep <code>Shared agent</code> disabled. Check <a href="/user-guide/shared-agent.md">the shared agent section</a> of this guide for more details.</li>
                 <li>Before adding the credential you will need to run the agent on the compute infrastructure. To do this:
                     <ol>
                         <li>Keep the Agent interface open.</li>
                         <li>Log in to infrastructure (the HPC).</li>
-                        <li>In theory, you can run the agent from anywhere on the HPC. but you can see best practices for some recommendations.</li>
+                        <li>In theory, you can run the agent from anywhere on the HPC. See our [best practices](/user-guide/hpc-recommendations) for some recommendations.</li>
                         <li>Copy the usage script from the Agent interface to any text editor and edit the Access token to provide your own token created above and provide the path to the work directory for the agent.</li>
                         <li>The work directory for the Agent (provided as a parameter in the command) must exist before running the agent.</li>
                         <li>Run the edited script relevant to your infrastructure (PBS or SLURM) bash.</li>
@@ -133,7 +133,7 @@ The following steps need to be completed in order unless they have been complete
                 <li> Select a platform 
                     <ul>
                         <li> This will depend on which infrastructure you are running and what workload managers are available there.</li>
-                        <li>Examples: For Setonix- SLURM, for Gadi PBSpro.</li>
+                        <li>Examples: For Setonix - SLURM, for Gadi - PBSpro.</li>
                     </ul>
                 </li>
                 <li>Select workdirectory 
@@ -158,8 +158,8 @@ The following steps need to be completed in order unless they have been complete
                 <li>Specify advanced options
                     <ul>
                         <li>Under head job submit options add project specific and queue data. This configuration is for the job that runs the main nextflow process.</li>
-                        <li>It is recommended to use 2 cpus and 8 GB memory for this job.</li>
-                        <li>Apply head job submit options to compute jobs to ensure your account details get passed on </li>
+                        <li>It is recommended to use 2 CPUs and 8 GB memory for this job.</li>
+                        <li>Apply head job submit options to compute jobs to ensure your account details get passed on.</li>
                     </ul>
                 </li>
                 <li>Click on <code>Add</code> and the compute environment will be created.</li>
@@ -172,7 +172,7 @@ The following steps need to be completed in order unless they have been complete
 
 ### Utilising compute environment with tower agent
 
-There are few points to be considered when using tower agent
+There are a few points to be considered when using tower agent:
 
 1. The users of a workspace will share the same compute environment and credentials.
 2. Each user needs to create their own personal access token.
@@ -182,7 +182,7 @@ There are few points to be considered when using tower agent
 To do that:
 
 1. Create a personal access token or use a pre-created access token as described here (access1).
-2. Obtain the connection id for the compote environment from its credential page (conn_id).
+2. Obtain the connection id for the compute environment from its credential page (conn_id).
 3. Run Tower agent using access1 and conn_id, and an independent work directory (any directory you have access to).
 4. The compute environment will be available and usable as long as the agent is running.
 
