@@ -1,8 +1,24 @@
 title: Main
 title_url: /
 subitems:
-  - title: Join the pilot project
-    url: /main/join_us
+  - title: Service Support
+    url: /main/support
+  - title: Service Information
+    subitems:
+      - title: Service Terms
+        url: /main/service-terms
+      - title: Access Models
+        url: /main/access-models
+      - title: Acceptable Use
+        url: /main/acceptable-use
+      - title: Service Commitments
+        url: /main/service-commitments
+      - title: Privacey
+        url: /main/privacy
+  - title: Acknowledgement statement
+    url: /main/acknowledgement
+  - title: Service Pilot Project
+    url: /main/pilot-project
   - title: Contact us
     url: /main/contact_us
   - title: Contributors
