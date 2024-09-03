@@ -191,10 +191,6 @@ Since investigations commenced in July 2022 till the end of the pilot project in
     </div>
 </div>
 
-## Quick access links
-
-[Join the pilot project](/nextflow-seqera/main/join_us){: class="btn btn-primary col-3"}
-
 <br />  
 
 <br />  

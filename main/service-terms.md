@@ -53,7 +53,7 @@ There are three modes of access to the platform. These are differentiated by the
 - This mode allows the first year of use for service exploration and utilisation without any cost.
 - **After one year from onboarding, the usage of the service by a large-scale research organisation incurs an annual licence fee that needs to be paid by the organisation**.
 - We will provide a three-month notification period before the annual fee is applied.
-- Under the organisation, you can create an unlimited number of [organisation workspaces](https://docs.seqera.io/platform/latest/orgs-and-teams/workspace-management) ( private or shared) that contain all features available on the platform.
+- Under the organisation, you can create an unlimited number of [organisation workspaces](https://docs.seqera.io/platform/latest/orgs-and-teams/workspace-management) (private or shared) that contain all features available on the platform.
 - There is no limit on the number of users
 - Permissions and other resource configurations can be set by organisation admins 
 - You can add collaborators from different organisations to your workspaces, but you can not create workspaces exclusively for their own use.
@@ -80,8 +80,8 @@ These Terms of Service are subject to change by the Australian BioCommons at any
 - The Australian BioCommons reserves the right, without notice, at its sole discretion and without liability, to restrict or remove access where it considers that your use of the Australian Nextflow Seqera Service seeks to impede its operations or violates these Terms of Use.
 - The users can opt out of using the service at any time they prefer. In case of production service usage, there will be no refund for the remaining time of the licence.
 
-
+<br/><br/>
 <hr/>
-<br/><br/><br/>
+<br/>
 
 *Questions or comments about the Australian Nextflow Seqera Service, including whether your intended use falls within these Terms of Use, should be directed to <seqera@biocommons.org.au>*

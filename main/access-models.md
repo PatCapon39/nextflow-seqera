@@ -1,5 +1,4 @@
 
-# Access models for the service
 
 There are currently three ways in which you can make use of the Australian Nextflow Seqera Service. 
 These terms of these models are described at [Access models](/user-guide/service-access.md).
@@ -17,7 +16,7 @@ Note:
 - Users are responsible for setting up, managing and maintaining their workspaces. 
 
 > **Important:**
-> To access a personal workspace visit the [accessing the service section](/user-guide/service-access.md).
+> To access a personal workspace visit the [accessing the service section](/nextflow-seqera/user-guide/service-access.md).
 
 ## 2. Organisation workspace
 
@@ -38,7 +37,7 @@ Organisation workspaces are private and their resources are only accessible by t
 > Please reach out to the Australian BioCommons if you plan to utilise this kind of workspace: <seqera@biocommons.org.au>
 
 > **Organisation workspace support:**
-> Check out the [support page](/main/support.md) to undestand more on the available support for this access model.
+> Check out the [support page](/nextflow-seqera/main/support) to undestand more on the available support for this access model.
 
 ## 3. Organisation
 
@@ -56,7 +55,7 @@ You can request the creation of a new "[organisation](https://docs.seqera.io/pla
 > Please reach out to the Australian BioCommons if you plan to utilise this kind of workspace: <seqera@biocommons.org.au>
 
 > **Organisation support:**
-> Check out the [support page](/main/support.md) to undestand more on the available support for this access model.
+> Check out the [support page](/nextflow-seqera/main/support.md) to undestand more on the available support for this access model.
 
 
 

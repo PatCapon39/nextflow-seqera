@@ -13,14 +13,14 @@ subitems:
         url: /main/acceptable-use
       - title: Service Commitments
         url: /main/service-commitments
-      - title: Privacey
+      - title: Privacy
         url: /main/privacy
   - title: Acknowledgement statement
     url: /main/acknowledgement
   - title: Service Pilot Project
     url: /main/pilot-project
   - title: Contact us
-    url: /main/contact_us
+    url: /main/contact-us
   - title: Contributors
     url: /main/contributors
   - title: User Guide
