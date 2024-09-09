@@ -10,7 +10,7 @@ columns:
   - type: links
     width: 3
     children:
-      - url_text: Main
+      - url_text: Home
         url: /
       - url_text: Contributors
         url: /main/contributors

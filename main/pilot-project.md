@@ -197,8 +197,3 @@ Since investigations commenced in July 2022 till the end of the pilot project in
 
 <br />  
 
-## Acknowledgements
-
-<br />  
-
-{% include affiliation-tiles-selection.html type="support" %}
