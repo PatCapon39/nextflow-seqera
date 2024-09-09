@@ -65,7 +65,7 @@ There are three modes of access to the platform. These are differentiated by the
 ## Privacy and sharing content
 
 - The Australian Nextflow Seqera Service is designed to support reproducible science. By default, your workflows and data are private. However, you can create and share content including datasets, workflows and compute environments.
-- Shared content will be retained for the lifetime of the service (see [Service lifetime](/nextflow-seqera/main/service-terms#lifetime-of-the-australian-nextflow-seqera-service)).
+- Shared content will be retained for the lifetime of the service (see [service lifetime](/nextflow-seqera/main/service-commitments)).
 - You can choose to delete your content at any time.
 - Downloading and usage of content from the Australian Nextflow Seqera Service does not transfer any intellectual property rights over the content to you.
 
