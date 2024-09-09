@@ -1,9 +1,7 @@
 ---
-title: Help and support
+title: Contact us
 toc: false
 ---
-
-##  Further information
 
 Please contact our support team for any enquiries you have: <seqera@biocommons.org.au>
 
