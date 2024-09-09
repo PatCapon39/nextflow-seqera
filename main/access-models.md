@@ -1,11 +1,11 @@
 
 
 There are three ways in which you can make use of the Australian Nextflow Seqera Service. 
-These terms of these models are described at [Access models](/user-guide/service-access.md).
+These terms of these models are described in the [Terms of Service](/nextflow-seqera/main/service-terms.md).
 
 
 ## 1. Personal workspace
-Any Australian researcher can access [the Australian BioCommons Nextflow Seqera Service](http://seqera.services.biocommons.org.au/) and use their own personal workspace. Please refer to the [Seqera documentation](https://docs.seqera.io/platform/latest/getting-started/workspace/). 
+Any Australian researcher can access [the Australian BioCommons Nextflow Seqera Service](http://seqera.services.biocommons.org.au/) and use their own personal workspace. Please refer to the [Seqera documentation for help getting started](https://docs.seqera.io/platform/latest/getting-started/workspace/). 
 
 Note:
 
