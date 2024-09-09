@@ -12,6 +12,3 @@ page_id: pg-5
 1. Make sure that the working directory of the Agent is not used as a working directory by other users. This can cause access permission issues.
 2. Consider running the Agent in the background or using jobs on the HPC, so you don’t need to start the Agent very often.
 
-## Recommendations on configuring compute environments on Setonix at Pawsey.
-
-## Recommendations on configuring compute environments on GADI at NCI.

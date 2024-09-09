@@ -55,6 +55,7 @@ Since investigations commenced in July 2022 till the end of the pilot project in
 <br />
 
 ## Participants of the pilot project
+
 <div class="container">
     <div class="row">
         <div class="col-sm-3" style="border: 1px solid; box-shadow: 3px 3px 3px 3px #888888; padding: 10px; margin: 20px" >
@@ -195,6 +196,8 @@ Since investigations commenced in July 2022 till the end of the pilot project in
 </div>
 
 <br />  
+
+## Acknowledgements
 
 <br />  
 

@@ -222,8 +222,3 @@ Updates on the status of these backends are available at:
 
 - <a href="https://status.pawsey.org.au/"> Setonix Status</a>
 - <a href="https://nci.org.au/our-systems/status"> GADI Status</a>
-
-
-
-# Communicating changes to the service
-Changes to the Australian Nextflow Seqera Services including version upgrades, networking changes and others need to be communicated to all Australian BioCommons Service Contacttional partners, compute providers and users. All these changes should be communicated to the Australian BioCommons Service Contact and they will communicate this information to all relevant Operational Partners.

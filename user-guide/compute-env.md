@@ -74,7 +74,7 @@ The following steps need to be completed in order unless they have been complete
         </h2>
         <div id="collapse-tower-agent" class="accordion-collapse collapse" aria-labelledby="heading-tower-agent" data-bs-parent="#accordion-comp-env-all">
           <div class="accordion-body">
-            <p><a href="https://docs.seqera.io/platform/latest/agent/">Tower Agent</a> is software that runs on the HPC and communicates with the Seqera API to perform all tasks needed on the HPC, including launching a pipeline and monitoring its execution. For an admin to create a tower agent credential, follow these steps:</p>
+            <p><a href="https://docs.seqera.io/platform/latest/credentials/agent_credentials">Tower Agent</a> is software that runs on the HPC and communicates with the Seqera API to perform all tasks needed on the HPC, including launching a pipeline and monitoring its execution. For an admin to create a tower agent credential, follow these steps:</p>
             <ol>
                 <li>Navigate to the workspace you want to add credentials to, then click on the <code>Credentials</code> tab.</li>
                 <li>Click on the <code>Add Credentials</code> button under <code>Credentials</code> to create a shared <code>Agent connection ID</code> for the Tower Agent.</li>
@@ -99,7 +99,7 @@ The following steps need to be completed in order unless they have been complete
                     </ol>
                 </li>
             </ol>
-            <p>The steps above will help to create the credentials and understand the Agent&rsquo;s parameters and how it runs. In practice, this can be better optimised by having all scripts and tokens in config files and bash scripts. See [best practice recommendations]((/user-guide/hpc-recommendations). The procedure is also described in the Seqera documentation at <a href="https://docs.seqera.io/platform/latest/agent/#quickstart">Quick Start</a>.</p>
+            <p>The steps above will help to create the credentials and understand the Agent&rsquo;s parameters and how it runs. In practice, this can be better optimised by having all scripts and tokens in config files and bash scripts. See [best practice recommendations](/user-guide/hpc-recommendations). The procedure is also described in the Seqera documentation at <a href="https://docs.seqera.io/platform/latest/credentials/agent_credentials">Quick Start</a>.</p>
             <div class="alert alert-primary" role="alert">
             <h4 class="alert-heading">Note</h4>
             <p>Users of the same workspace share credentials, so there is no need to create a credential per user within a workspace.</p>
@@ -138,7 +138,7 @@ The following steps need to be completed in order unless they have been complete
                 </li>
                 <li>Select workdirectory 
                     <ul>
-                        <li>This can remain as $TW_AGENT_WORK or specify your own</li>
+                        <li>This can remain as <code>$TW_AGENT_WORK</code> or specify your own</li>
                     </ul>
                 </li>
                 <li>Leave the launch directory field empty.</li>
