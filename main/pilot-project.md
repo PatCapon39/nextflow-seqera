@@ -10,6 +10,8 @@ Through a licence agreement with Seqera Labs, Australian BioCommons piloted a na
 
 Working with pilot partners including service hosts Pawsey Supercomputing Research Centre, NCI, SIH, QCIF and Melbourne Bioinformatics, the Australian Nextflow Seqera Service will deliver a key component of BioCommon’s vision for an ecosystem of data analysis and digital asset stewardship platforms.
 
+{% include affiliation-tiles-selection.html type="support, pilot" %}
+
 ## Project timeframe
 
 The pilot project began in **July 2022** and finished in **September 2024**.
