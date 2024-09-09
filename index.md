@@ -9,7 +9,7 @@ The Australian Nextflow Seqera Service is a centralised web platform for managin
 
 # Operational Partners
 
-[Australian BioCommons](https://www.biocommons.org.au/) (whose lead agent is the University of Melbourne) operates the Australian Nextflow Seqera Service in collaboration with [Pawsey Supercomputing Research Centre](https://pawsey.org.au/), [National Computational Infrastructure (NCI)](https://nci.org.au/), and [Seqera](https://seqera.io/). The Service was established as an output of the Australian BioCommons [Bring Your Own Data Expansion Project](https://www.biocommons.org.au/byo-data-platform-expansion) and is hosted on Amazon Web Services (AWS). It is supported by [Bioplatforms Australia](https://www.bioplatforms.com/) via [NCRIS funding](https://www.education.gov.au/ncris).
+[Australian BioCommons](https://www.biocommons.org.au/) (whose lead agent is [the University of Melbourne](https://www.unimelb.edu.au/)) operates the Australian Nextflow Seqera Service in collaboration with [Pawsey Supercomputing Research Centre](https://pawsey.org.au/), [National Computational Infrastructure (NCI)](https://nci.org.au/), and [Seqera](https://seqera.io/). The Service was established as an output of the Australian BioCommons [Bring Your Own Data Expansion Project](https://www.biocommons.org.au/byo-data-platform-expansion) and is hosted on Amazon Web Services (AWS). It is supported by [Bioplatforms Australia](https://www.bioplatforms.com/) via [NCRIS funding](https://www.education.gov.au/ncris).
 
 
 <br />  
