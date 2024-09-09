@@ -1,7 +1,7 @@
 
 
 There are three ways in which you can make use of the Australian Nextflow Seqera Service. 
-These terms of these models are described in the [Terms of Service](/nextflow-seqera/main/service-terms.md).
+These terms of these models are described in the [Terms of Service](/main/nextflow-seqera/service-terms.md).
 
 
 ## 1. Personal workspace
