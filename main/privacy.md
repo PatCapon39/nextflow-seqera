@@ -3,7 +3,7 @@ title: Privacy Policy and Data Collection Statement
 toc: false
 ---
 
-The Australian Nextflow Seqera Service Operational Partners are committed to protecting your privacy. We do not collect, process, retain or share personal data other than for the purposes described below.
+The Australian Nextflow Seqera Service and its Operational Partners are committed to protecting your privacy. We do not collect, process, retain or share personal data other than for the purposes described below.
 
 # Usage data
 
@@ -16,20 +16,19 @@ The Australian Nextflow Seqera Service Operational Partners are committed to pro
 
 - When you register an account with the Australian Nextflow Seqera Service, we collect registration data (i.e. email address, institutional affiliation and public name).
 - The Operational Partners may contact registered account holders using the email address they provide for operational reasons, including: 
-    - checking user account security,
-    - communicating service downtime, 
-    - communicating service improvements,
-    - responding to your support requests,
-    - surveying existing and planned use in order to improve and promote the service,
-    - discussing breaches of these Terms of Use, and
-    - communicating updates to the Australian Nextflow Seqera Service policies.
+    - Checking user account security
+    - Communicating service downtime
+    - Communicating service improvements
+    - Responding to your support requests
+    - Surveying existing and planned use in order to improve and promote the service
+    - Discussing breaches of these Terms of Use
+    - Communicating updates to the Australian Nextflow Seqera Service policies.
 
-- The Operational Partners may contact registered account holders using the email address they provide for promotional reasons, such as seeking consent and content for newsletters, annual reports or media releases by operational partners and funding partners.
+- The Operational Partners may contact registered account holders using the email address they provide for promotional reasons, such as seeking consent and content for newsletters, annual reports or media releases.
 
 # Credentials
 
 - You can configure workspace credentials to store the access keys and tokens for your compute environments and Git hosting services. These credentials may be transmitted to those services.
-
 - All credentials are encrypted before secure storage and not exposed in an unencrypted way by any Seqera API.
 
 # Support requests
