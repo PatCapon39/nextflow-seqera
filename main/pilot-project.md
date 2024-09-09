@@ -6,19 +6,19 @@ toc: false
 
 ## Project outline
 
-Through a licence agreement with Seqera Labs, Australian BioCommons is in the process of standing up a national Nextflow Seqera service, enabling a centralised command post for Nextflow pipelines to be offered as a fully subsidised service for Australian researchers.
+Through a licence agreement with Seqera Labs, Australian BioCommons piloted a national Nextflow Seqera service, enabling a centralised command post for Nextflow pipelines to be offered as a fully subsidised service for Australian researchers.
 
-Working with partners including service hosts Pawsey Supercomputing Research Centre, NCI, SIH, QCIF and Melbourne Bioinformatics, the Australian Nextflow Seqera Service will deliver a key component of BioCommon’s vision for an ecosystem of data analysis and digital asset stewardship platforms.
+Working with pilot partners including service hosts Pawsey Supercomputing Research Centre, NCI, SIH, QCIF and Melbourne Bioinformatics, the Australian Nextflow Seqera Service will deliver a key component of BioCommon’s vision for an ecosystem of data analysis and digital asset stewardship platforms.
 
 ## Project timeframe
 
-The pilot project was started in **July 2022** and finished in **September 2024**.
+The pilot project began in **July 2022** and finished in **September 2024**.
 
 
 
 ## Aims of the pilot project
 
-The pilot project has three key ambitions, which are to:
+The pilot project had three key ambitions:
 
 1. Establish a service where BioCommons early adopters, including both science and method communities, can easily run, manage and monitor the execution of Nextflow workflows on dedicated compute infrastructure.
 
@@ -32,17 +32,18 @@ At the end of the pilot phase, Australian BioCommons will make the decision on p
 
 Since investigations commenced in July 2022 till the end of the pilot project in September 2024:
 
-- Nextflow Seqera has been deployed on Pawsey infrastructure
+- Nextflow Seqera was deployed on Pawsey infrastructure
 
-- 29 research groups are onboarded to the service (78 users from 16 different institutions).
+- 29 research groups were onboarded to the service (78 users from 16 different institutions).
 
-- We have successfully integrated the services with our partners compute infrastructure such as NCI, Pawsey, on premises HPC, AWS and Azure 
+- The services were successfully integrated with our partner's compute infrastructure such as NCI, Pawsey, on premises HPC, AWS and Azure 
 
-- The services has submitted submitted more than 334,000 jobs to several compute infrastructures to perform 4,050 workflow executions. 
+- More than 334,000 jobs have been submitted to several compute infrastructures to perform 4,050 workflow executions. 
 
 - Supported many groups with workflow development and deployment
+- Established a user guide
 
-- Past and future promotion for the services in several conferences
+- Promoted the service at several conferences
 
 <br/>
 <div style="text-align:center"><img width="90%" src="../assets/doc_img/timeline.png"/></div>
