@@ -5,7 +5,7 @@ toc: false
 
 # General support
 
-- Austrlian BioCommons deploy and maintain the platform.
+- Australian BioCommons deploy and maintain the platform.
 
 - Access and availability issues are supported.
 
@@ -19,7 +19,7 @@ toc: false
 
 1. **Access to compute infrastructure**
 
-    The community/organisation should have access to at least one compute infrastructure that will be configured on the Australian Nextflow Seqera service. There are several supported platforms on Seqera and you can find them [here](https://docs.seqera.io/platform/latest/compute-envs/overview).
+    The community/organisation should have access to at least one compute infrastructure that will be configured on the Australian Nextflow Seqera Service. There are several supported platforms on Seqera and you can find them [here](https://docs.seqera.io/platform/latest/compute-envs/overview).
 
 2. **Nextflow pipelines**
 
@@ -39,10 +39,10 @@ toc: false
     - Implement changes to the pipeline (usually edits to the configuration profiles).
     - Configure, test and debug the pipelines on the community infrastructures.
     - Understand the available computational resources they access.
-    - Might require admin access to the compute infrastructure.
+    - Require admin access to the compute infrastructure.
     - Manage user access to the community/organisation workspace.
 
-    The BioCommons will provide all possible support with respect to the available resources.
+    Australian BioCommons will provide all possible support with respect to the available resources.
 
 <br />  
 
