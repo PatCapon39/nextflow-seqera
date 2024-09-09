@@ -11,7 +11,7 @@
 ### add new affiliations below as needed
 
 - name: Australian BioCommons
-  image_url: /assets/img/main_logo.png
+  image_url: /assets/img/Australian-Biocommons-Logo-Tagline-Infrastructure-RGB.png
   expose: true
   type: infrastructure
   url: https://www.biocommons.org.au/
@@ -42,7 +42,7 @@
 - name: Australian Research Data Commons
   image_url: /assets/img/ARDC+logo+RGB.png
   expose: true
-  type: support
+  type: pilot
   url: https://ardc.edu.au/
 
 - name: NCRIS
@@ -66,17 +66,17 @@
 - name: Queensland Cyber Infrastructure Foundation
   image_url: /assets/img/QCIF_Logo.png
   expose: true
-  type: support
+  type: pilot
   url: https://www.qcif.edu.au/
 
 - name: Melbourne Bioinformatics
   image_url: /assets/img/7465070.png
   expose: true
-  type: support
+  type: pilot
   url: https://mdhs.unimelb.edu.au/melbournebioinformatics
 
 - name: The University of Sydney
   image_url: /assets/img/Uni-logo-transparent.png
   expose: true
-  type: support
+  type: pilot
   url: https://www.sydney.edu.au/
