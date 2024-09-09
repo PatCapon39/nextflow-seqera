@@ -9,7 +9,7 @@ page_id: pg-1
 
 ## Access an organisation workspace
 
-Accessing an organisation workspace requires joining the [pilot project of the Australian Nextflow Seqera Service](/main/nextflowseqera/join_us.md).
+Accessing an organisation workspace requires joining the [Australian Nextflow Seqera Service](nextflow-seqera/index.md).
 
 Under the pilot project, you can:
 
