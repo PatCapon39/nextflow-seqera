@@ -7,13 +7,17 @@ toc: false
 
 - Australian BioCommons deploy and maintain the platform.
 
-- Access and availability issues are supported.
+- Service accessibility and availability issues are supported.
 
 - Personal workspaces are not supported by Australian BioCommons at this stage.  
 
 - A demo of utilising the service is available.
 
+- User guide is available [here](/nextflow-seqera/user-guide/).
+
 # Content/Science Support
+
+Onboarded groups into the service are responsible to develop and maintain their workspaces. In some cases, Australian BioCommons can support the groups to accelerate their utilisation of the service if the following prerequisite list is satisfied.
 
 ## Prerequisite list
 

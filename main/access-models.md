@@ -9,6 +9,8 @@ Any Australian researcher can access [the Australian BioCommons Nextflow Seqera 
 
 Note:
 
+- By default, each user on the Australian Nextflow Seqera Service will have their own personal workspace which can be accessed directly after logging in. There is no need to contact us to use your own personal workspace.
+
 - Personal workspaces are only accessible by their owners.
 
 - Australian BioCommons does not provide direct support for this model.
@@ -37,9 +39,6 @@ Organisation workspaces are private and their resources are only accessible by t
 > **Important:**
 > Please reach out to Australian BioCommons if you plan to utilise this kind of workspace: <seqera@biocommons.org.au>
 
-> **Organisation workspace support:**
-> Check out the [support page](/nextflow-seqera/main/support) to undestand more on the available support for this access model.
-
 ## 3. New Organisation
 
 You can request the creation of a new "[organisation](https://docs.seqera.io/platform/latest/orgs-and-teams/organizations)" on the platform. The orgnisation will be only accessible by its users. 
@@ -54,14 +53,3 @@ You can request the creation of a new "[organisation](https://docs.seqera.io/pla
 
 > **Important:**
 > Please reach out to Australian BioCommons if you plan to create a new organisation: <seqera@biocommons.org.au>
-
-> **Organisation support:**
-> Check out the [support page](/nextflow-seqera/main/support.md) to undestand more on the available support for this access model.
-
-
-
-# The process of joining and utilising the Australian Nextflow Seqera Service
-
-<br/>
-<div style="text-align:center"><img width="50%" src="../assets/doc_img/seqera-process.png"/></div>
-<br/>
