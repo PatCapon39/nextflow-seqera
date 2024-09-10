@@ -18,6 +18,7 @@ Note:
 > **Important:**
 > To access a personal workspace visit the [accessing the service section of the user guide](/nextflow-seqera/user-guide/service-access.md).
 
+
 ## 2. Organisation workspace
 
 A collaborative workspace where multiple users can work together and share resources such as compute environments and workflows. More details are available in the [Seqera documentation](https://docs.seqera.io/platform/latest/orgs-and-teams/workspace-management/). 

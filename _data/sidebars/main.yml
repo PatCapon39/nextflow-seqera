@@ -15,10 +15,10 @@ subitems:
         url: /main/service-commitments
       - title: Privacy
         url: /main/privacy
-  - title: Acknowledgement statement
-    url: /main/acknowledgement
   - title: Service Pilot Project
     url: /main/pilot-project
+  - title: Acknowledgement statement
+    url: /main/acknowledgement
   - title: Contact us
     url: /main/contact-us
   - title: Contributors
