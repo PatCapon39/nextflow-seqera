@@ -15,10 +15,11 @@ The Australian Nextflow Seqera Service is a centralised web platform for managin
       aria-expanded="false"
       aria-controls="collapseExample"
     >
-      <a href="http://seqera.services.biocommons.org.au/" target="_blank">Log in or register</a>
+      <a href="http://seqera.services.biocommons.org.au/" target="_blank" style="color: white;">Log in or register</a>
     </button>
   </div>
 </div>
+
 
 # Operational Partners
 
