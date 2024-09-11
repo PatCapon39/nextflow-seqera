@@ -11,7 +11,7 @@ toc: false
 
 - Personal workspaces are not supported by Australian BioCommons at this stage.  
 
-- A live demo of using the service can be arranged when during onboarding.
+- A live demo of using the service can be arranged during onboarding.
 
 - User guide is available [here](/nextflow-seqera/user-guide/).
 
