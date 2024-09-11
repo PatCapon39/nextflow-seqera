@@ -187,8 +187,8 @@ This relies on both the availability of the Australian Nextflow Seqera Service a
 
 #  Lifetime of the Australian Nextflow Seqera Service
 
-The service will continue for the lifetime of Australian BioCommons, which is funded until December 2028.
-In case of closure of the service, registered account holders will be notified one year in advance.
+Service funding is confirmed until May 2026. Australian BioCommons aims to continue to support the service in the future - user demand and interest in the service will assist in justifying continued funding.
+In the unlikely event of service closure, registered account holders will be notified one year in advance.
 
 # Maintenance
 

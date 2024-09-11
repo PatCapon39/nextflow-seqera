@@ -1,8 +1,6 @@
 title: Home
 title_url: /
 subitems:
-  - title: Service Support
-    url: /main/support
   - title: Service Information
     subitems:
       - title: Service Terms
@@ -15,9 +13,11 @@ subitems:
         url: /main/service-commitments
       - title: Privacy
         url: /main/privacy
-  - title: Service Pilot Project
-    url: /main/pilot-project
-  - title: Acknowledgement statement
+      - title: Service History
+        url: /main/service-history
+  - title: Service Support
+    url: /main/support
+  - title: Service Acknowledgement
     url: /main/acknowledgement
   - title: Contact us
     url: /main/contact-us
