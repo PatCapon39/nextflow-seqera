@@ -45,6 +45,12 @@
   type: support
   url: https://nci.org.au/
 
+- name: Seqera
+  image_url: /assets/img/seqera_logo_color.png
+  expose: true
+  type: support
+  url: https://seqera.io/
+
 - name: Bioplatforms Australia
   image_url: /assets/img/bioplatforms-australia-logo.png
   expose: true
