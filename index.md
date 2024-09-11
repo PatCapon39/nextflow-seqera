@@ -7,7 +7,18 @@ toc: false
 
 The Australian Nextflow Seqera Service is a centralised web platform for managing, launching and monitoring the execution of Nextflow bioinformatics pipelines on [Seqera-compatible compute environments](https://docs.seqera.io/platform/latest/compute-envs/overview). Australian research organisations and individual researchers can add compute infrastructure they have access to and publish pipelines to private or shared workspaces to run data analyses at scale. The service provides access to all features available through the [Seqera Platform](https://seqera.io/platform/) including data exploration and analysis as well as notebook analysis.
 
-{% include callout.html type="note" content="Get started by [registering your email at the web platform](http://seqera.services.biocommons.org.au/) and reading the [three ways you can access the service](/nextflow-seqera/main/access-models)." %}
+<div class="d-flex flex-column">
+  <div class="mb-2">
+    <button
+      class="btn btn-secondary text-light"
+      type="button"
+      aria-expanded="false"
+      aria-controls="collapseExample"
+    >
+      <a href="http://seqera.services.biocommons.org.au/" target="_blank" style="color: white;">Log in or register</a>
+    </button>
+  </div>
+</div>
 
 
 # Operational Partners
