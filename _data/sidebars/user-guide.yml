@@ -14,7 +14,7 @@ subitems:
       - title: Recommendations
         url: /user-guide/hpc-recommendations
   - title: Contact us
-    url: /main/contact_us
+    url: /main/contact-us
   - title: Contributors
     url: /main/contributors
   - title: Back to Home
