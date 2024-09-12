@@ -41,7 +41,7 @@ Organisation workspaces are private and their resources are only accessible by t
 
 ## 3. New Organisation
 
-You can request the creation of a new "[organisation](https://docs.seqera.io/platform/latest/orgs-and-teams/organizations)" on the platform. The orgnisation will be only accessible by its users. 
+You can request the creation of a new "[organisation](https://docs.seqera.io/platform/latest/orgs-and-teams/organizations)" on the platform. The organisation will be only accessible to its users. 
 
 - Under the organisation, you can create an unlimited number of [organisation workspaces](https://docs.seqera.io/platform/latest/orgs-and-teams/workspace-management) (private or shared) that contain all features available on the platform.
 - There is no limit on the number of users.
@@ -49,7 +49,7 @@ You can request the creation of a new "[organisation](https://docs.seqera.io/pla
 > **Important:**
 > This mode allows the first year of use for service exploration and utilisation without any cost.
 
-> **After one year from onboarding, the usage of the service by a large-scale research organisation incurs an annual licence fee that needs to be paid by the organisation**.
+> **One year after onboarding, the usage of the service by a large-scale research organisation incurs an annual licence fee that needs to be paid by the organisation**.
 
 > **Important:**
 > Please reach out to Australian BioCommons if you plan to create a new organisation: <seqera@biocommons.org.au>
