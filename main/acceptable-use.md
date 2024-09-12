@@ -18,5 +18,5 @@ toc: false
         - Corruption of or disruption to data stored on the Service, or to the data of another user
         - Disruption to other users
         - Introduction or transmission of malware into the system.
-6. Other uses of Service are only permitted with the written permission of the Australian Nextflow Seqera Service Manager (contact via <seqera@biocommons.org.au>).
+6. Other uses of the Service are only permitted with the written permission of the Australian Nextflow Seqera Service Manager (contact via <seqera@biocommons.org.au>).
 
