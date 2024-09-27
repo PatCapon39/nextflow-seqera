@@ -1,5 +1,5 @@
 ---
-title: Contributors
+title: Team
 toc: false
 ---
 
