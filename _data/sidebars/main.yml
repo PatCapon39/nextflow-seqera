@@ -21,7 +21,7 @@ subitems:
     url: /main/acknowledgement
   - title: Contact us
     url: /main/contact-us
-  - title: Contributors
-    url: /main/contributors
+  - title: Team
+    url: /main/team
   - title: User Guide
     url: /user-guide/
