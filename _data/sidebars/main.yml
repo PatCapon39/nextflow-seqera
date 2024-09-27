@@ -5,8 +5,8 @@ subitems:
     url: /main/join_us
   - title: Contact us
     url: /main/contact_us
-  - title: Contributors
-    url: /main/contributors
+  - title: Team
+    url: /main/team
   - title: User Guide
     url: /user-guide/
     subitems:
